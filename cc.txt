@@ -1,0 +1,3 @@
+CLoud computing in a future technology which offers scalability without having worry about server maintanance or any space issue.
+  It offer various technology like infrastructure as a service or software as a service and many more.
+  Directly login to your cloud server and you can remotly access your data anytime and anywhere.
